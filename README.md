@@ -38,6 +38,17 @@
 | [Whisper](https://github.com/openai/whisper) | 多语种语音识别、字幕与音频转文字。 | 106.1k |
 | [faster-whisper](https://github.com/SYSTRAN/faster-whisper) | 更高效的 Whisper 推理，适合转写流水线。 | 24.6k |
 | [Coqui TTS](https://github.com/coqui-ai/TTS) | 文本转语音训练、克隆与生成工具。 | 45.8k |
+| [VoxCPM](https://github.com/OpenBMB/VoxCPM) | 多语种语音生成、创意音色设计与高保真声音克隆。 | 34.5k |
+| [MockingBird](https://github.com/babysor/MockingBird) | 数秒完成声音克隆并实时生成语音。 | 36.9k |
+| [Duix-Avatar](https://github.com/duixcom/Duix-Avatar) | 本地数字人视频生成与形象克隆工具包。 | 14.2k |
+| [Toonflow](https://github.com/HBAI-Ltd/Toonflow-app) | 将小说或剧本转为动画短剧，集成编剧、分镜与视频生成。 | 13.1k |
+| [palmier-pro](https://github.com/palmier-io/palmier-pro) | 专为 AI 创作设计的 macOS 视频编辑器。 | 12.8k |
+| [voice-pro](https://github.com/abus-aikorea/voice-pro) | 集成 TTS、声音克隆、转写、分离与翻译的创作者 WebUI。 | 11.4k |
+| [KrillinAI](https://github.com/krillinai/KrillinAI) | 视频下载、转写、翻译、配音与封装的一体化工具。 | 10.6k |
+| [AutoClip](https://github.com/zhouxiaoka/autoclip) | AI 高光提取与短视频自动剪辑。 | 6.2k |
+| [short-video-factory](https://github.com/YILS-LIN/short-video-factory) | 批量生成营销及内容短视频的跨平台工具。 | 5.0k |
+| [SmartSub](https://github.com/buxuku/SmartSub) | 本地字幕生成、翻译、AI 配音与声音克隆。 | 4.4k |
+| [auto-subs](https://github.com/tmoroney/auto-subs) | 面向 DaVinci Resolve、Premiere 与 After Effects 的本地字幕生成。 | 3.9k |
 
 ## 基础模型与推理
 
