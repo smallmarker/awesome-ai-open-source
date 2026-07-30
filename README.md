@@ -14,6 +14,7 @@
 - [机器学习框架与 MLOps](#机器学习框架与-mlops)
 - [计算机视觉](#计算机视觉)
 - [生成式图像与视频](#生成式图像与视频)
+- [AI 视频与创作工具](#ai-视频与创作工具)
 - [语音、音频与音乐](#语音音频与音乐)
 - [自然语言处理](#自然语言处理)
 - [多模态与文档智能](#多模态与文档智能)
@@ -177,6 +178,17 @@
 - [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker) — 个性化图像生成。
 - [haofanwang/ControlNet](https://github.com/lllyasviel/ControlNet) — 可控图像生成。
 - [guoyww/AnimateDiff](https://github.com/guoyww/AnimateDiff) — 动画扩散模型。
+
+## AI 视频与创作工具
+
+面向视频生成、剪辑、配音及制作流程自动化的开源应用。Star 数为 **2026-07-30** 从 GitHub API 获取的快照，随时间变化；点击项目链接可查看实时数据。
+
+| 项目 | Star（快照） | 用途 |
+| --- | ---: | --- |
+| [OpenMontage](https://github.com/calesthio/OpenMontage) | 44,009 | Agent 驱动的视频制作系统，含多条制作管线、工具与技能库。 |
+| [voicebox](https://github.com/jamiepine/voicebox) | 47,411 | 开源 AI 语音工作室：克隆、口述与生成语音。 |
+| [OpenCut](https://github.com/OpenCut-app/OpenCut) | 79,817 | 开源 CapCut 替代品。 |
+| [video-use](https://github.com/browser-use/video-use) | 18,128 | 让编码 Agent 自动编辑视频。 |
 
 ## 语音、音频与音乐
 
