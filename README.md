@@ -49,6 +49,11 @@
 | [short-video-factory](https://github.com/YILS-LIN/short-video-factory) | 批量生成营销及内容短视频的跨平台工具。 | 5.0k |
 | [SmartSub](https://github.com/buxuku/SmartSub) | 本地字幕生成、翻译、AI 配音与声音克隆。 | 4.4k |
 | [auto-subs](https://github.com/tmoroney/auto-subs) | 面向 DaVinci Resolve、Premiere 与 After Effects 的本地字幕生成。 | 3.9k |
+| [OmniVoice-Studio](https://github.com/debpalash/OmniVoice-Studio) | 本地声音克隆、视频配音、口述与有声书制作工具。 | 9.5k |
+| [html-video](https://github.com/nexu-io/html-video) | 面向编程 Agent 的本地 HTML/CSS/数据到 MP4 视频生成工具。 | 4.3k |
+| [MOSS-TTS-Nano](https://github.com/OpenMOSS/MOSS-TTS-Nano) | 可在 CPU 实时运行的轻量多语种语音生成模型。 | 4.0k |
+| [video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | 面向 Claude Code 与 Codex 的 AI 电影感产品视频制作技能库。 | 3.5k |
+| [qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent) | 支持 AI Agent 实时语音交互的运行时。 | 1.9k |
 
 ## 基础模型与推理
 
@@ -129,6 +134,9 @@
 | [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) | 非结构化文档解析。 | 15.2k |
 | [jina-ai/reader](https://github.com/jina-ai/reader) | 网页转 LLM 友好文本。 | 11.8k |
 | [FlagOpen/FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) | 中文/多语种嵌入与重排。 | 12.0k |
+| [LLM Wiki](https://github.com/nashsu/llm_wiki) | 将文档自动构建为可关联、可持续维护的知识库桌面应用。 | 15.9k |
+| [PixelRAG](https://github.com/StarTrail-org/PixelRAG) | 面向可扩展像素原生检索的 RAG 工具。 | 9.1k |
+| [OpenKB](https://github.com/VectifyAI/OpenKB) | 开源 LLM 知识库。 | 3.3k |
 
 ## 训练、微调与对齐
 
