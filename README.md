@@ -237,8 +237,12 @@
 | 项目 | 简介 | Star |
 | --- | --- | ---: |
 | [openai/whisper](https://github.com/openai/whisper) | 多语种自动语音识别。 | 106.1k |
-| [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) | 本地 Whisper 推理。 | 52.4k |
-| [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) | 高效 Whisper 推理。 | 24.6k |
+| [whisper.cpp](https://github.com/ggml-org/whisper.cpp) | 适合 Mac/Apple Silicon 的完全本地高速 Whisper 推理；支持 CPU/GPU 与字幕文件导出，需少量命令行操作。 | 52.6k |
+| [faster-whisper](https://github.com/SYSTRAN/faster-whisper) | 适合批量处理或 NVIDIA GPU 的高效 Whisper 实现；可通过脚本导出字幕。 | 24.7k |
+| [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit) | 适合普通用户：导入视频后用 Whisper 转写、导出 SRT/VTT，并可逐句校对和压制字幕。 | 13.7k |
+| [Whisper-WebUI](https://github.com/jhj0517/Whisper-WebUI) | 本地网页工具：上传视频或 YouTube 链接生成 SRT/VTT/TXT，支持翻译与说话人分离。 | 2.8k |
+| [auto-subtitle](https://github.com/m1guelpf/auto-subtitle) | 一条命令生成字幕并直接烧录进视频，适合会基础命令行的短视频创作者。 | 2.3k |
+| [VideoSubFinder](https://github.com/SWHL/VideoSubFinder) | 从已有硬字幕的视频画面中 OCR 提取文字，而非语音识别。 | 0.1k |
 | [coqui-ai/TTS](https://github.com/coqui-ai/TTS) | 文本转语音训练与推理。 | 45.8k |
 | [myshell-ai/MeloTTS](https://github.com/myshell-ai/MeloTTS) | 多语种 TTS。 | 7.6k |
 | [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | 开源语音生成模型。 | 31.7k |
