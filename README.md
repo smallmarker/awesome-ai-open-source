@@ -54,6 +54,9 @@
 | [MOSS-TTS-Nano](https://github.com/OpenMOSS/MOSS-TTS-Nano) | 可在 CPU 实时运行的轻量多语种语音生成模型。 | 4.0k |
 | [video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | 面向 Claude Code 与 Codex 的 AI 电影感产品视频制作技能库。 | 3.5k |
 | [qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent) | 支持 AI Agent 实时语音交互的运行时。 | 1.9k |
+| [VoiceStudio](https://github.com/debpalash/VoiceStudio) | 全本地语音克隆、音色设计、视频配音、转写与有声书制作工具。 | 10.1k |
+| [FluidVoice](https://github.com/altic-dev/FluidVoice) | 支持端侧语音转写与文本增强的 macOS 听写应用。 | 10.7k |
+| [AI-Video-Transcriber](https://github.com/wendy7756/AI-Video-Transcriber) | 跨平台转写和总结视频、播客的开源工具。 | 3.2k |
 
 ## 基础模型与推理
 
@@ -114,6 +117,10 @@
 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | 浏览器自动化 Agent。 | 107.3k |
 | [microsoft/TaskWeaver](https://github.com/microsoft/TaskWeaver) | 代码优先的任务规划 Agent。 | 6.2k |
 | [composiohq/composio](https://github.com/ComposioHQ/composio) | Agent 工具与集成层。 | 29.5k |
+| [TEN Framework](https://github.com/TEN-framework/ten-framework) | 开源对话式语音 AI Agent 框架。 | 11.1k |
+| [LiveKit Agents](https://github.com/livekit/agents) | 构建实时语音与多模态 AI Agent 的框架。 | 13.1k |
+| [Pipecat](https://github.com/pipecat-ai/pipecat) | 用于语音 Agent、多模态应用和实时 AI 的开源框架。 | 14.3k |
+| [mem0](https://github.com/mem0ai/mem0) | 可跨模型与框架复用的 AI Agent 记忆层。 | 63.5k |
 
 ## RAG、检索与向量数据库
 
@@ -137,6 +144,8 @@
 | [LLM Wiki](https://github.com/nashsu/llm_wiki) | 将文档自动构建为可关联、可持续维护的知识库桌面应用。 | 15.9k |
 | [PixelRAG](https://github.com/StarTrail-org/PixelRAG) | 面向可扩展像素原生检索的 RAG 工具。 | 9.1k |
 | [OpenKB](https://github.com/VectifyAI/OpenKB) | 开源 LLM 知识库。 | 3.3k |
+| [LightRAG](https://github.com/HKUDS/LightRAG) | 简洁快速的图谱增强 RAG 框架。 | 38.9k |
+| [GraphRAG](https://github.com/microsoft/graphrag) | Microsoft 开源的模块化图谱检索增强生成系统。 | 35.6k |
 
 ## 训练、微调与对齐
 
@@ -328,6 +337,7 @@
 | [lmstudio-ai/lmstudio-js](https://github.com/lmstudio-ai/lmstudio-js) | LM Studio JavaScript SDK。 | 1.7k |
 | [janhq/jan](https://github.com/janhq/jan) | 本地运行模型的桌面应用。 | 43.8k |
 | [lobehub/lobe-chat](https://github.com/lobehub/lobehub) | 多模型个人工作台。 | 81.0k |
+| [agent-browser](https://github.com/vercel-labs/agent-browser) | 面向 AI Agent 的浏览器自动化命令行工具。 | 40.9k |
 
 ## 数据集、社区与学习资源
 
