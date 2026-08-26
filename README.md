@@ -49,6 +49,7 @@
 | [short-video-factory](https://github.com/YILS-LIN/short-video-factory) | 批量生成营销及内容短视频的跨平台工具。 | 5.0k |
 | [SmartSub](https://github.com/buxuku/SmartSub) | 本地字幕生成、翻译、AI 配音与声音克隆。 | 4.4k |
 | [auto-subs](https://github.com/tmoroney/auto-subs) | 面向 DaVinci Resolve、Premiere 与 After Effects 的本地字幕生成。 | 3.9k |
+| [VideoLingo](https://github.com/Huanshere/VideoLingo) | 一键完成字幕切分、翻译、对齐与配音的开源视频本地化工具。 | 18.3k |
 | [OmniVoice-Studio](https://github.com/debpalash/OmniVoice-Studio) | 本地声音克隆、视频配音、口述与有声书制作工具。 | 9.5k |
 | [html-video](https://github.com/nexu-io/html-video) | 面向编程 Agent 的本地 HTML/CSS/数据到 MP4 视频生成工具。 | 4.3k |
 | [MOSS-TTS-Nano](https://github.com/OpenMOSS/MOSS-TTS-Nano) | 可在 CPU 实时运行的轻量多语种语音生成模型。 | 4.0k |
