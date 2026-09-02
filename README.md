@@ -32,6 +32,8 @@
 | [OpenMontage](https://github.com/calesthio/OpenMontage) | Agent 驱动的视频制作系统，提供制作管线、工具与技能库。 | 44.0k |
 | [OpenCut](https://github.com/OpenCut-app/OpenCut) | 开源 CapCut 替代品，适合影视短片剪辑。 | 79.8k |
 | [video-use](https://github.com/browser-use/video-use) | 让编码 Agent 自动完成视频编辑任务。 | 18.1k |
+| [Hyperframes](https://github.com/heygen-com/hyperframes) | 面向 Agent 的 HTML 视频渲染工具，可将网页内容渲染为视频。 | 43.6k |
+| [YouDub-webui](https://github.com/liuzhao1225/YouDub-webui) | 面向 YouTube、Bilibili 的视频本地化、字幕翻译与 AI 配音工具。 | 5.4k |
 | [ComfyUI](https://github.com/comfyanonymous/ComfyUI) | 节点式生成视频、图像与创意工作流。 | 122.8k |
 | [LivePortrait](https://github.com/KlingAIResearch/LivePortrait) | 静态人像驱动与口播视频生成。 | 18.8k |
 | [voicebox](https://github.com/jamiepine/voicebox) | 开源 AI 语音工作室：克隆、口述与生成语音。 | 47.4k |
@@ -107,6 +109,7 @@
 | [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) | 可视化 LLM 工作流。 | 55.0k |
 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | 可视化 AI 应用构建器。 | 152.6k |
 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 统一 LLM API、代理与网关。 | 55.1k |
+| [Vercel AI SDK](https://github.com/vercel/ai) | TypeScript 的 AI 应用与 Agent 开发工具包。 | 26.5k |
 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | 可扩展自托管 AI Web UI。 | 147.3k |
 | [lobehub/lobe-chat](https://github.com/lobehub/lobehub) | 个人 AI 助手工作空间。 | 81.0k |
 | [MudBlazor/PromptFlow](https://github.com/microsoft/promptflow) | LLM 应用流编排与评测。 | 11.2k |
@@ -122,6 +125,7 @@
 | [LiveKit Agents](https://github.com/livekit/agents) | 构建实时语音与多模态 AI Agent 的框架。 | 13.1k |
 | [Pipecat](https://github.com/pipecat-ai/pipecat) | 用于语音 Agent、多模态应用和实时 AI 的开源框架。 | 14.3k |
 | [mem0](https://github.com/mem0ai/mem0) | 可跨模型与框架复用的 AI Agent 记忆层。 | 63.5k |
+| [pi](https://github.com/earendil-works/pi) | 提供统一模型 API、Agent 循环、终端界面与编码 Agent CLI 的工具包。 | 100.5k |
 
 ## RAG、检索与向量数据库
 
@@ -147,6 +151,8 @@
 | [OpenKB](https://github.com/VectifyAI/OpenKB) | 开源 LLM 知识库。 | 3.3k |
 | [LightRAG](https://github.com/HKUDS/LightRAG) | 简洁快速的图谱增强 RAG 框架。 | 38.9k |
 | [GraphRAG](https://github.com/microsoft/graphrag) | Microsoft 开源的模块化图谱检索增强生成系统。 | 35.6k |
+| [Graphiti](https://github.com/getzep/graphiti) | 为 AI Agent 构建实时知识图谱与时间感知记忆。 | 30.5k |
+| [OpenViking](https://github.com/volcengine/OpenViking) | 统一 Agent 记忆、知识 RAG 与技能的自演进上下文数据库。 | 34.9k |
 
 ## 训练、微调与对齐
 
