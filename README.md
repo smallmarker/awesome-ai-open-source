@@ -32,6 +32,8 @@
 | [OpenMontage](https://github.com/calesthio/OpenMontage) | Agent 驱动的视频制作系统，提供制作管线、工具与技能库。 | 44.0k |
 | [OpenCut](https://github.com/OpenCut-app/OpenCut) | 开源 CapCut 替代品，适合影视短片剪辑。 | 79.8k |
 | [video-use](https://github.com/browser-use/video-use) | 让编码 Agent 自动完成视频编辑任务。 | 18.1k |
+| [AICON](https://github.com/869413421/ai-moive-studio) | 自然语言驱动的无限画布工作流，覆盖剧本、分镜、素材生成与视频合成。 | 1.5k |
+| [Claude Code Video Toolkit](https://github.com/digitalsamba/claude-code-video-toolkit) | 面向 Claude Code 的 AI 原生视频制作工具包。 | 2.1k |
 | [Hyperframes](https://github.com/heygen-com/hyperframes) | 面向 Agent 的 HTML 视频渲染工具，可将网页内容渲染为视频。 | 43.6k |
 | [YouDub-webui](https://github.com/liuzhao1225/YouDub-webui) | 面向 YouTube、Bilibili 的视频本地化、字幕翻译与 AI 配音工具。 | 5.4k |
 | [ComfyUI](https://github.com/comfyanonymous/ComfyUI) | 节点式生成视频、图像与创意工作流。 | 122.8k |
@@ -126,6 +128,7 @@
 | [Pipecat](https://github.com/pipecat-ai/pipecat) | 用于语音 Agent、多模态应用和实时 AI 的开源框架。 | 14.3k |
 | [mem0](https://github.com/mem0ai/mem0) | 可跨模型与框架复用的 AI Agent 记忆层。 | 63.5k |
 | [pi](https://github.com/earendil-works/pi) | 提供统一模型 API、Agent 循环、终端界面与编码 Agent CLI 的工具包。 | 100.5k |
+| [Hermes Agent](https://github.com/NousResearch/hermes-agent) | 可持续成长、支持工具调用与长期任务的开源 Agent。 | 243.4k |
 
 ## RAG、检索与向量数据库
 
@@ -345,6 +348,7 @@
 | [janhq/jan](https://github.com/janhq/jan) | 本地运行模型的桌面应用。 | 43.8k |
 | [lobehub/lobe-chat](https://github.com/lobehub/lobehub) | 多模型个人工作台。 | 81.0k |
 | [agent-browser](https://github.com/vercel-labs/agent-browser) | 面向 AI Agent 的浏览器自动化命令行工具。 | 40.9k |
+| [agent-skills](https://github.com/addyosmani/agent-skills) | 面向 AI 编码 Agent 的生产级工程技能库。 | 93.0k |
 
 ## 数据集、社区与学习资源
 
