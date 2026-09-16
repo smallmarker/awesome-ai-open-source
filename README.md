@@ -36,6 +36,7 @@
 | [Claude Code Video Toolkit](https://github.com/digitalsamba/claude-code-video-toolkit) | 面向 Claude Code 的 AI 原生视频制作工具包。 | 2.1k |
 | [Hyperframes](https://github.com/heygen-com/hyperframes) | 面向 Agent 的 HTML 视频渲染工具，可将网页内容渲染为视频。 | 43.6k |
 | [YouDub-webui](https://github.com/liuzhao1225/YouDub-webui) | 面向 YouTube、Bilibili 的视频本地化、字幕翻译与 AI 配音工具。 | 5.4k |
+| [VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) | 基于 LLM 的视频字幕生成、断句校正与字幕翻译工具。 | 16.0k |
 | [ComfyUI](https://github.com/comfyanonymous/ComfyUI) | 节点式生成视频、图像与创意工作流。 | 122.8k |
 | [LivePortrait](https://github.com/KlingAIResearch/LivePortrait) | 静态人像驱动与口播视频生成。 | 18.8k |
 | [voicebox](https://github.com/jamiepine/voicebox) | 开源 AI 语音工作室：克隆、口述与生成语音。 | 47.4k |
