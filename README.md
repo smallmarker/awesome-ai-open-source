@@ -33,6 +33,7 @@
 | [OpenCut](https://github.com/OpenCut-app/OpenCut) | 开源 CapCut 替代品，适合影视短片剪辑。 | 79.8k |
 | [video-use](https://github.com/browser-use/video-use) | 让编码 Agent 自动完成视频编辑任务。 | 18.1k |
 | [AICON](https://github.com/869413421/ai-moive-studio) | 自然语言驱动的无限画布工作流，覆盖剧本、分镜、素材生成与视频合成。 | 1.5k |
+| [Rongguang](https://github.com/Stonewuu/ai-fusion-video) | 基于 Agent 的短剧、漫剧与视频全流程 AI 创作平台。 | 1.5k |
 | [Claude Code Video Toolkit](https://github.com/digitalsamba/claude-code-video-toolkit) | 面向 Claude Code 的 AI 原生视频制作工具包。 | 2.1k |
 | [Hyperframes](https://github.com/heygen-com/hyperframes) | 面向 Agent 的 HTML 视频渲染工具，可将网页内容渲染为视频。 | 43.6k |
 | [YouDub-webui](https://github.com/liuzhao1225/YouDub-webui) | 面向 YouTube、Bilibili 的视频本地化、字幕翻译与 AI 配音工具。 | 5.4k |
@@ -63,6 +64,7 @@
 | [VoiceStudio](https://github.com/debpalash/VoiceStudio) | 全本地语音克隆、音色设计、视频配音、转写与有声书制作工具。 | 10.1k |
 | [FluidVoice](https://github.com/altic-dev/FluidVoice) | 支持端侧语音转写与文本增强的 macOS 听写应用。 | 10.7k |
 | [AI-Video-Transcriber](https://github.com/wendy7756/AI-Video-Transcriber) | 跨平台转写和总结视频、播客的开源工具。 | 3.2k |
+| [Scriberr](https://github.com/rishikanthc/Scriberr) | 自托管的 AI 音频转写工具。 | 3.1k |
 
 ## 基础模型与推理
 
@@ -104,6 +106,7 @@
 | 项目 | 简介 | Star |
 | --- | --- | ---: |
 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | LLM 应用编排框架。 | 143.0k |
+| [LangGraph](https://github.com/langchain-ai/langgraph) | 用于构建可控、可恢复 Agent 工作流的状态图框架。 | 42.2k |
 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | 数据连接与 RAG 应用框架。 | 51.2k |
 | [microsoft/autogen](https://github.com/microsoft/autogen) | 多智能体应用框架。 | 60.1k |
 | [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) | AI 编排 SDK。 | 28.4k |
@@ -157,6 +160,7 @@
 | [GraphRAG](https://github.com/microsoft/graphrag) | Microsoft 开源的模块化图谱检索增强生成系统。 | 35.6k |
 | [Graphiti](https://github.com/getzep/graphiti) | 为 AI Agent 构建实时知识图谱与时间感知记忆。 | 30.5k |
 | [OpenViking](https://github.com/volcengine/OpenViking) | 统一 Agent 记忆、知识 RAG 与技能的自演进上下文数据库。 | 34.9k |
+| [ragent](https://github.com/nageoffer/ragent) | 覆盖文档解析、多路检索、记忆与 MCP 的企业级 Agentic RAG 平台。 | 4.1k |
 
 ## 训练、微调与对齐
 
