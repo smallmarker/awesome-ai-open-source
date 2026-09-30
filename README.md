@@ -107,6 +107,7 @@
 | --- | --- | ---: |
 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | LLM 应用编排框架。 | 143.0k |
 | [LangGraph](https://github.com/langchain-ai/langgraph) | 用于构建可控、可恢复 Agent 工作流的状态图框架。 | 42.2k |
+| [VoltAgent](https://github.com/VoltAgent/voltagent) | 基于 TypeScript 的开源 AI Agent 工程平台与框架。 | 10.7k |
 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | 数据连接与 RAG 应用框架。 | 51.2k |
 | [microsoft/autogen](https://github.com/microsoft/autogen) | 多智能体应用框架。 | 60.1k |
 | [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) | AI 编排 SDK。 | 28.4k |
@@ -152,6 +153,7 @@
 | [elastic/elasticsearch](https://github.com/elastic/elasticsearch) | 搜索、分析与向量检索。 | 77.6k |
 | [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) | 非结构化文档解析。 | 15.2k |
 | [jina-ai/reader](https://github.com/jina-ai/reader) | 网页转 LLM 友好文本。 | 11.8k |
+| [Crawl4AI](https://github.com/unclecode/crawl4ai) | 将网站转换为干净、适合 LLM 与 Agent 使用的 Markdown 的开源爬虫。 | 84.5k |
 | [FlagOpen/FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) | 中文/多语种嵌入与重排。 | 12.0k |
 | [LLM Wiki](https://github.com/nashsu/llm_wiki) | 将文档自动构建为可关联、可持续维护的知识库桌面应用。 | 15.9k |
 | [PixelRAG](https://github.com/StarTrail-org/PixelRAG) | 面向可扩展像素原生检索的 RAG 工具。 | 9.1k |
@@ -354,6 +356,7 @@
 | [lobehub/lobe-chat](https://github.com/lobehub/lobehub) | 多模型个人工作台。 | 81.0k |
 | [agent-browser](https://github.com/vercel-labs/agent-browser) | 面向 AI Agent 的浏览器自动化命令行工具。 | 40.9k |
 | [agent-skills](https://github.com/addyosmani/agent-skills) | 面向 AI 编码 Agent 的生产级工程技能库。 | 93.0k |
+| [Ruby LLM](https://github.com/crmne/ruby_llm) | 面向 Ruby 与 Rails 的统一 AI 框架，支持聊天、Agent、图像、音频和视频。 | 4.4k |
 
 ## 数据集、社区与学习资源
 
