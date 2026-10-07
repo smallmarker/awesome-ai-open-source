@@ -134,6 +134,8 @@
 | [mem0](https://github.com/mem0ai/mem0) | 可跨模型与框架复用的 AI Agent 记忆层。 | 63.5k |
 | [pi](https://github.com/earendil-works/pi) | 提供统一模型 API、Agent 循环、终端界面与编码 Agent CLI 的工具包。 | 100.5k |
 | [Hermes Agent](https://github.com/NousResearch/hermes-agent) | 可持续成长、支持工具调用与长期任务的开源 Agent。 | 243.4k |
+| [AgenticSeek](https://github.com/Fosowl/agenticSeek) | 可本地运行、支持浏览与编码的自主 Agent。 | 27.4k |
+| [RuoYi-AI](https://github.com/ageerle/ruoyi-ai) | 提供多模型、知识库 RAG、可视化工作流与多 Agent 协作的企业级框架。 | 5.7k |
 
 ## RAG、检索与向量数据库
 
@@ -357,6 +359,7 @@
 | [agent-browser](https://github.com/vercel-labs/agent-browser) | 面向 AI Agent 的浏览器自动化命令行工具。 | 40.9k |
 | [agent-skills](https://github.com/addyosmani/agent-skills) | 面向 AI 编码 Agent 的生产级工程技能库。 | 93.0k |
 | [Ruby LLM](https://github.com/crmne/ruby_llm) | 面向 Ruby 与 Rails 的统一 AI 框架，支持聊天、Agent、图像、音频和视频。 | 4.4k |
+| [TanStack AI](https://github.com/TanStack/ai) | 类型安全、跨模型的 TypeScript AI SDK，支持流式聊天、工具调用与 Agent。 | 3.2k |
 
 ## 数据集、社区与学习资源
 
