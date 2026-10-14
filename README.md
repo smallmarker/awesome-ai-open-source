@@ -33,6 +33,7 @@
 | [OpenCut](https://github.com/OpenCut-app/OpenCut) | 开源 CapCut 替代品，适合影视短片剪辑。 | 79.8k |
 | [video-use](https://github.com/browser-use/video-use) | 让编码 Agent 自动完成视频编辑任务。 | 18.1k |
 | [AICON](https://github.com/869413421/ai-moive-studio) | 自然语言驱动的无限画布工作流，覆盖剧本、分镜、素材生成与视频合成。 | 1.5k |
+| [PRINTFILM](https://github.com/yi1108/printfilm) | 用于短视频营销与 AI 短剧创作的开源平台。 | 5.1k |
 | [Rongguang](https://github.com/Stonewuu/ai-fusion-video) | 基于 Agent 的短剧、漫剧与视频全流程 AI 创作平台。 | 1.5k |
 | [Claude Code Video Toolkit](https://github.com/digitalsamba/claude-code-video-toolkit) | 面向 Claude Code 的 AI 原生视频制作工具包。 | 2.1k |
 | [Hyperframes](https://github.com/heygen-com/hyperframes) | 面向 Agent 的 HTML 视频渲染工具，可将网页内容渲染为视频。 | 43.6k |
@@ -374,6 +375,7 @@
 | [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 从零构建语言模型。 | 100.1k |
 | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | AI 入门课程。 | 53.2k |
 | [DataTalksClub/llm-zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp) | LLM 工程课程。 | 6.9k |
+| [AI Engineering Hub](https://github.com/patchy631/ai-engineering-hub) | 聚焦 LLM、RAG 与真实 Agent 应用的深度教程与实践项目。 | 38.3k |
 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | Awesome 列表规范与入口。 | 490.5k |
 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | 自托管工具索引，含 AI 分类。 | 309.3k |
 | [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) | 开源项目质量实践示例。 | 2.4k |
