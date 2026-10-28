@@ -374,6 +374,7 @@
 | [mlabonne/llm-course](https://github.com/mlabonne/llm-course) | LLM 系统学习路线。 | 81.3k |
 | [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 从零构建语言模型。 | 100.1k |
 | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | AI 入门课程。 | 53.2k |
+| [AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners) | Microsoft 的 18 课 AI Agent 入门课程与实战示例。 | 78.0k |
 | [DataTalksClub/llm-zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp) | LLM 工程课程。 | 6.9k |
 | [AI Engineering Hub](https://github.com/patchy631/ai-engineering-hub) | 聚焦 LLM、RAG 与真实 Agent 应用的深度教程与实践项目。 | 38.3k |
 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | Awesome 列表规范与入口。 | 490.5k |
