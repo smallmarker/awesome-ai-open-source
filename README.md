@@ -51,7 +51,8 @@
 | [Toonflow](https://github.com/HBAI-Ltd/Toonflow-app) | 将小说或剧本转为动画短剧，集成编剧、分镜与视频生成。 | 13.1k |
 | [palmier-pro](https://github.com/palmier-io/palmier-pro) | 专为 AI 创作设计的 macOS 视频编辑器。 | 12.8k |
 | [voice-pro](https://github.com/abus-aikorea/voice-pro) | 集成 TTS、声音克隆、转写、分离与翻译的创作者 WebUI。 | 11.4k |
-| [KrillinAI](https://github.com/krillinai/KrillinAI) | 视频下载、转写、翻译、配音与封装的一体化工具。 | 10.6k |
+| [OpenCreator](https://github.com/krillinai/OpenCreator) | KrillinAI 的后继项目：覆盖下载、转写、翻译、配音与 Agent 驱动的创作工作流。 | 14.1k |
+| [VidBee](https://github.com/nexmoe/VidBee) | 下载多站视频与音频，并可本地转写、说话人分离、总结、翻译与媒体问答。 | 11.1k |
 | [AutoClip](https://github.com/zhouxiaoka/autoclip) | AI 高光提取与短视频自动剪辑。 | 6.2k |
 | [short-video-factory](https://github.com/YILS-LIN/short-video-factory) | 批量生成营销及内容短视频的跨平台工具。 | 5.0k |
 | [SmartSub](https://github.com/buxuku/SmartSub) | 本地字幕生成、翻译、AI 配音与声音克隆。 | 4.4k |
