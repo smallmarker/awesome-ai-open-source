@@ -62,6 +62,7 @@
 | [html-video](https://github.com/nexu-io/html-video) | 面向编程 Agent 的本地 HTML/CSS/数据到 MP4 视频生成工具。 | 4.3k |
 | [MOSS-TTS-Nano](https://github.com/OpenMOSS/MOSS-TTS-Nano) | 可在 CPU 实时运行的轻量多语种语音生成模型。 | 4.0k |
 | [video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | 面向 Claude Code 与 Codex 的 AI 电影感产品视频制作技能库。 | 3.5k |
+| [rea-video](https://github.com/JuneYaooo/rea-video) | 逐镜头拆解任意视频并给出复刻方法，使用开放的 VIDEO.md 格式。 | 10.3k |
 | [qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent) | 支持 AI Agent 实时语音交互的运行时。 | 1.9k |
 | [VoiceStudio](https://github.com/debpalash/VoiceStudio) | 全本地语音克隆、音色设计、视频配音、转写与有声书制作工具。 | 10.1k |
 | [FluidVoice](https://github.com/altic-dev/FluidVoice) | 支持端侧语音转写与文本增强的 macOS 听写应用。 | 10.7k |
